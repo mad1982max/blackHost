@@ -23,8 +23,7 @@ export class AppComponent {
     }
   }
 
-  highLight(): void {
-   
+  highLight(): void {   
     this.objectToHighlight = {
       id: this.inputId,
       area: this.inputArea,

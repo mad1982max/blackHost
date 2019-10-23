@@ -6,98 +6,98 @@
 <g id = 'wrapper' transform = 'rotate(28), scale(1, -1)'> 
 <title>7</title>
   <g id="Stairs_Outline" data-name="Stairs Outline">
-    <polyline points="43.081 62.581 30.785 58.401 33.203 69.251 35.037 68.798 38.64 70.73 43.081 62.581" style="fill: #889196;stroke: white;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    <polyline points="43.06 62.6 30.764 58.419 33.182 69.269 35.016 68.816 38.619 70.748 43.06 62.6" style="fill: black;stroke:white;stroke-miterlimit: 10;stroke-width: 0.08px"/>
   </g>
   <g id="Stairs">
     <g>
-      <path d="M35.037,68.8a5.258,5.258,0,0,1-.121-1.415,1.533,1.533,0,0,1,.527-.631l3.432-2.363a1.693,1.693,0,0,1,.832-.245,1.284,1.284,0,0,1,.573.138l1.215-2.24-1.527-.519-6.153,3.958a2.385,2.385,0,0,0-.8.689,1.506,1.506,0,0,0-.177.875l.467,2.14" style="fill: #fff;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="34.214" y1="65.276" x2="35.195" y2="66.877" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="34.705" y1="64.967" x2="35.686" y2="66.568" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="35.197" y1="64.658" x2="36.155" y2="66.222" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="35.688" y1="64.35" x2="36.669" y2="65.95" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="36.18" y1="64.041" x2="37.161" y2="65.641" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="36.635" y1="63.672" x2="37.618" y2="65.276" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="37.126" y1="63.363" x2="38.081" y2="64.921" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="37.618" y1="63.054" x2="38.562" y2="64.596" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="38.105" y1="62.741" x2="39.04" y2="64.264" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="38.604" y1="62.429" x2="39.645" y2="64.129" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="39.092" y1="62.127" x2="40.313" y2="64.119" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="39.563" y1="61.784" x2="40.634" y2="63.533" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <path d="M40.959,62.951" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <path d="M40.053,61.473" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <path d="M41.282,62.369" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <path d="M40.541,61.159" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <path d="M41.621,61.81" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <path d="M41.027,60.841" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <path d="M41.924,61.193" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <path d="M41.516,60.527" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="33.183" y1="68.627" x2="34.899" y2="68.354" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="33.096" y1="68.036" x2="34.812" y2="67.763" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="32.842" y1="66.877" x2="34.916" y2="67.383" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="33.306" y1="65.835" x2="35.067" y2="67.1" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <line x1="33.303" y1="69.185" x2="34.977" y2="68.798" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <path d="M35.077,69.409" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <path d="M33.429,69.671" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <path d="M35.2,69.931" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <path d="M33.552,70.193" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <path d="M35.268,70.461" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <path d="M33.675,70.715" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
-      <path d="M35.336,70.992" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
+      <path d="M35.037,68.8a5.258,5.258,0,0,1-.121-1.415,1.533,1.533,0,0,1,.527-.631l3.432-2.363a1.693,1.693,0,0,1,.832-.245,1.284,1.284,0,0,1,.573.138l1.215-2.24-1.527-.519-6.153,3.958a2.385,2.385,0,0,0-.8.689,1.506,1.506,0,0,0-.177.875l.474,2.172" style="fill: #fff;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="34.214" y1="65.276" x2="35.195" y2="66.877" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="34.705" y1="64.967" x2="35.686" y2="66.568" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="35.197" y1="64.658" x2="36.155" y2="66.222" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="35.688" y1="64.35" x2="36.669" y2="65.95" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="36.18" y1="64.041" x2="37.161" y2="65.641" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="36.635" y1="63.672" x2="37.618" y2="65.276" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="37.126" y1="63.363" x2="38.081" y2="64.921" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="37.618" y1="63.054" x2="38.562" y2="64.596" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="38.105" y1="62.741" x2="39.04" y2="64.264" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="38.604" y1="62.429" x2="39.645" y2="64.129" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="39.092" y1="62.127" x2="40.313" y2="64.119" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="39.563" y1="61.784" x2="40.634" y2="63.533" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <path d="M40.959,62.951" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <path d="M40.053,61.473" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <path d="M41.282,62.369" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <path d="M40.541,61.159" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <path d="M41.621,61.81" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <path d="M41.027,60.841" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <path d="M41.924,61.193" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <path d="M41.516,60.527" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="33.183" y1="68.627" x2="34.899" y2="68.354" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="33.096" y1="68.036" x2="34.812" y2="67.763" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="32.842" y1="66.877" x2="34.916" y2="67.383" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="33.306" y1="65.835" x2="35.067" y2="67.1" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <line x1="33.303" y1="69.185" x2="34.977" y2="68.798" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <path d="M35.077,69.409" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <path d="M33.429,69.671" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <path d="M35.2,69.931" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <path d="M33.552,70.193" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <path d="M35.268,70.461" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <path d="M33.675,70.715" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
+      <path d="M35.336,70.992" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
     </g>
   </g>
   <g id="NEW_Inner" data-name="NEW Inner">
-    <polyline points="38.498 80.895 39.239 81.298 37.537 84.432 34.26 82.652 34.787 78.88 36.226 79.663" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="36.928" y1="80.032" x2="37.694" y2="80.459" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <polyline points="39.239 81.298 42.805 74.798 37.883 72.126 35.134 77.186 35.583 77.429" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="36.364" y1="77.854" x2="38.825" y2="79.191" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="39.607" y1="79.616" x2="40.034" y2="79.849" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="40.562" y1="72.377" x2="40.803" y2="71.962" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="40.067" y1="73.319" x2="40.137" y2="73.188" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <polyline points="41.961 72.576 38.611 70.785 40.375 67.537 42.867 62.952 44.866 64.036 43.069 67.344 44.16 67.907" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <polyline points="42.756 73.007 42.966 73.138 43.897 71.426 44.13 71.552 45.062 69.838 42.712 68.558 40.803 71.962" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <polyline points="28.839 75.556 28.905 75.855 32.779 74.984 32.095 71.802" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="27.629" y1="70.089" x2="28.676" y2="74.724" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <polyline points="27.726 70.55 31.62 69.665 30.945 66.61 27.049 67.473 27.087 67.648 26.478 67.783" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="32.063" y1="69.517" x2="31.611" y2="69.6" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="28.298" y1="73.091" x2="32.19" y2="72.246" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="29.229" y1="70.196" x2="29.794" y2="72.764" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="31.62" y1="69.665" x2="31.684" y2="69.948" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="30.094" y1="66.803" x2="27.987" y2="57.45" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="30.873" y1="58.847" x2="28.417" y2="59.4" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <polyline points="30.785 58.401 32.515 66.252 33.182 69.269 32.735 69.368" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="30.945" y1="66.61" x2="32.515" y2="66.252" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <polyline points="24.733 90.293 29.805 89.169 28.887 85.106" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <polyline points="23.579 85.018 28.638 83.898 28.694 84.145" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <polyline points="22.861 79.646 27.47 78.624 27.526 78.873" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="27.733" y1="79.808" x2="28.638" y2="83.898" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="27.47" y1="78.624" x2="26.572" y2="74.567" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <path d="M26.358,73.6l-.056-.249-3.976.881" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="25.364" y1="69.251" x2="26.302" y2="73.352" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <polyline points="25.197 68.362 25.135 68.081 21.791 68.821" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="25.638" y1="67.968" x2="25.135" y2="68.081" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <polyline points="38.64 70.747 35.069 68.801 34.486 68.929" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="33.181" y1="69.217" x2="33.603" y2="69.125" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="29.805" y1="89.169" x2="30.208" y2="89.081" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <path d="M31.074,88.889l2.411-.523,1.066.579,6.784,3.7" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="43.271" y1="75.271" x2="42.733" y2="74.964" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <line x1="44.079" y1="75.71" x2="47.475" y2="77.542" style="fill: none;stroke: white;stroke-width: 0.25px"/>
-    <path d="M38.891,67.094" style="fill: white;stroke: white;stroke-miterlimit: 10;stroke-width: 0.25px"/>
-    <line x1="38.871" y1="77.335" x2="40.894" y2="73.749" style="fill: none;stroke: white;stroke-width: 0.25px"/>
+    <polyline points="38.498 80.895 39.239 81.298 37.537 84.432 34.26 82.652 34.787 78.88 36.226 79.663" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="36.928" y1="80.032" x2="37.694" y2="80.459" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <polyline points="39.239 81.298 42.805 74.798 37.883 72.126 35.134 77.186 35.583 77.429" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="36.364" y1="77.854" x2="38.825" y2="79.191" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="39.607" y1="79.616" x2="40.034" y2="79.849" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="40.562" y1="72.377" x2="40.803" y2="71.962" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="40.067" y1="73.319" x2="40.137" y2="73.188" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <polyline points="41.961 72.576 38.611 70.785 40.375 67.537 42.867 62.952 44.866 64.036 43.069 67.344 44.16 67.907" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <polyline points="42.756 73.007 42.966 73.138 43.897 71.426 44.13 71.552 45.062 69.838 42.712 68.558 40.803 71.962" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <polyline points="28.839 75.556 28.905 75.855 32.779 74.984 32.095 71.802" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="27.629" y1="70.089" x2="28.676" y2="74.724" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <polyline points="27.726 70.55 31.62 69.665 30.945 66.61 27.049 67.473 27.087 67.648 26.478 67.783" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="32.063" y1="69.517" x2="31.62" y2="69.616" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="28.298" y1="73.091" x2="32.19" y2="72.246" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="29.229" y1="70.196" x2="29.794" y2="72.764" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="31.62" y1="69.665" x2="31.684" y2="69.948" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="30.094" y1="66.803" x2="27.987" y2="57.45" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="30.873" y1="58.847" x2="28.417" y2="59.4" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <polyline points="30.785 58.401 32.515 66.252 33.182 69.269 32.735 69.368" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="30.945" y1="66.61" x2="32.515" y2="66.252" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <polyline points="24.733 90.293 29.805 89.169 28.887 85.106" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <polyline points="23.579 85.018 28.638 83.898 28.694 84.145" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <polyline points="22.861 79.646 27.47 78.624 27.526 78.873" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="27.733" y1="79.808" x2="28.638" y2="83.898" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="27.47" y1="78.624" x2="26.572" y2="74.567" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <path d="M26.358,73.6l-.056-.249-3.976.881" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="25.364" y1="69.251" x2="26.302" y2="73.352" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <polyline points="25.197 68.362 25.135 68.081 21.791 68.821" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="25.638" y1="67.968" x2="25.135" y2="68.081" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <polyline points="38.64 70.747 35.069 68.801 34.486 68.929" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="33.181" y1="69.217" x2="33.603" y2="69.125" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="29.805" y1="89.169" x2="30.208" y2="89.081" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <path d="M31.074,88.889l2.411-.523,1.066.579,6.784,3.7" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="43.271" y1="75.271" x2="42.733" y2="74.964" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <line x1="44.079" y1="75.71" x2="47.475" y2="77.542" style="fill: none;stroke:white;stroke-width: 0.08px"/>
+    <path d="M38.891,67.094" style="fill: #f8cdc3;stroke:white;stroke-miterlimit: 10;stroke-width: 0.08px"/>
+    <line x1="38.871" y1="77.335" x2="40.894" y2="73.749" style="fill: none;stroke:white;stroke-width: 0.08px"/>
   </g>
   <g id="NEW_Outer" data-name="NEW Outer">
-    <polygon points="32.599 109.55 28.43 108.963 22.809 83.58 19.852 54.132 52.479 65.35 43.265 89.916 32.599 109.55" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.16px"/>
-    <polygon points="20.412 54.875 23.237 83.45 28.749 108.665 32.349 109.146 42.971 89.636 51.926 65.588 20.412 54.875" style="fill: none;stroke: white;stroke-linecap: square;stroke-width: 0.25px"/>
+    <polygon points="32.599 109.55 28.43 108.963 22.809 83.58 19.852 54.132 52.479 65.35 43.265 89.916 32.599 109.55" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.16px"/>
+    <polygon points="20.412 54.875 23.237 83.45 28.749 108.665 32.349 109.146 42.971 89.636 51.926 65.588 20.412 54.875" style="fill: none;stroke:white;stroke-linecap: square;stroke-width: 0.08px"/>
   </g>
   <g id="Signs">
     <g id="hc">
-      <circle cx="36.75" cy="81.841" r="1.243" style="fill: white"/>
+      <circle cx="36.75" cy="81.841" r="1.243" style="fill: #f8cdc3"/>
       <g id="hctoilet">
         <path d="M36.506,82.229a.144.144,0,1,1-.2.056.145.145,0,0,1,.2-.056m-.089.161a.04.04,0,1,0-.016-.054.041.041,0,0,0,.016.054" style="fill: black"/>
         <path d="M36.807,81.579l.091.05.178.1.388-.2.048.093-.438.227-.227-.125-.121.218a.253.253,0,0,1,.266.005l-.051.091a.228.228,0,0,0-.329.11l0,.007-.091-.05.126-.227a.415.415,0,1,1,.658-.381l-.1.052a.311.311,0,1,0-.5.237l.062-.113Z" style="fill: black"/>
       </g>
     </g>
     <g id="heis">
-      <circle cx="30.785" cy="71.224" r="1.243" style="fill: white"/>
+      <circle cx="30.785" cy="71.224" r="1.243" style="fill: #f8cdc3"/>
       <g id="heis-2" data-name="heis">
         <path d="M30.67,70.376l.875.485-.485.875-.875-.485Zm.744.522-.707-.392-.392.708.708.391Z" style="fill: black"/>
         <rect x="30.657" y="70.833" width="0.409" height="0.096" transform="translate(-46.094 63.509) rotate(-61)" style="fill: black"/>
@@ -108,7 +108,7 @@
       </g>
     </g>
     <g id="toalett">
-      <circle cx="43.081" cy="70.356" r="1.243" style="fill: white"/>
+      <circle cx="43.081" cy="70.356" r="1.243" style="fill: #f8cdc3"/>
       <g id="toilet">
         <rect x="42.472" y="70.14" width="0.45" height="0.078" transform="translate(-39.383 73.499) rotate(-61)" style="fill: black"/>
         <rect x="42.498" y="70.046" width="0.818" height="0.078" transform="translate(-39.193 73.634) rotate(-61)" style="fill: black"/>
@@ -119,24 +119,24 @@
       </g>
     </g>
     <g id="toalett-2" data-name="toalett">
-      <circle cx="30.667" cy="74.008" r="1.243" style="fill: white"/>
+      <circle cx="30.667" cy="74.008" r="1.243" style="fill: #f8cdc3"/>
       <g id="toilet-2" data-name="toilet">
         <rect x="30.058" y="73.792" width="0.45" height="0.078" transform="translate(-48.973 64.523) rotate(-61)" style="fill: black"/>
         <rect x="30.084" y="73.698" width="0.818" height="0.078" transform="translate(-48.782 64.658) rotate(-61)" style="fill: black"/>
         <rect x="30.299" y="73.926" width="0.45" height="0.078" transform="translate(-48.966 64.803) rotate(-61)" style="fill: black"/>
         <path d="M30.147,74.361a.108.108,0,1,1,.147-.042.108.108,0,0,1-.147.042m.067-.121a.03.03,0,0,0-.041.012.029.029,0,0,0,.012.04.029.029,0,0,0,.04-.011.03.03,0,0,0-.011-.041" style="fill: black"/>
         <path d="M30.783,74.466a.108.108,0,1,1-.147.042.108.108,0,0,1,.147-.042m-.067.121a.03.03,0,0,0,.04-.012.029.029,0,0,0-.011-.04.03.03,0,0,0-.041.011.03.03,0,0,0,.012.041" style="fill: black"/>
-        <path d="M30.86,74.408l-.035-.019-.034-.019a.172.172,0,0,0-.061-.254l.038-.068a.191.191,0,0,1,.109.167h0a.172.172,0,0,0-.061-.254l.038-.069a.192.192,0,0,1,.109.168l.224-.4.068.038-.224.4a.192.192,0,0,1,.2,0l-.038.069a.172.172,0,0,0-.248.083h0a.19.19,0,0,1,.2,0l-.038.068a.171.171,0,0,0-.247.083" style="fill: black"/>
+        <path d="M30.86,74.408l-.035-.019-.034-.019a.172.172,0,0,0-.061-.254l.038-.068a.191.191,0,0,1,.109.167h0a.172.172,0,0,0-.061-.254l.038-.069a.192.192,0,0,1,.109.168l.224-.4.068.038-.224.4a.192.192,0,0,1,.2,0l-.038.069a.172.172,0,0,0-.248.083h0a.19.19,0,0,1,.2,0l-.038.068a.171.171,0,0,0-.247.083" style="fill:black"/>
       </g>
     </g>
   </g>
   <g id="Anchor">
     <g style="clip-path: url(#clip-path)">
-      <path d="M37.614,72.532l3.021,1.623-.031.059L37.583,72.59ZM40.4,74.61,37.391,73l-.031.058,3.006,1.615Zm-3.223,1.859,1.2-2.229.427.23L37.61,76.681l1.286.693.031-.058-1.188-.638.211-.392L39.1,76.9l.032-.059-1.148-.616.212-.393,1.189.638.031-.058-1.189-.639.212-.393,1.158.622.032-.059-1.158-.622.212-.393,1.2.642.032-.058-1.2-.643.213-.395,1.188.639.032-.059-2.983-1.6-.032.059,1.172.629-.21.391L36.923,73.9l-.032.059,1.168.627-.212.394-1.167-.628-.032.059,1.168.627-.212.393-1.151-.618-.031.058,1.15.619-.211.393-1.167-.627-.031.059,1.166.627-.222.411-1.181-.635-.032.059Z" style="fill: white"/>
+      <path d="M37.614,72.532l3.021,1.623-.031.059L37.583,72.59ZM40.4,74.61,37.391,73l-.031.058,3.006,1.615Zm-3.223,1.859,1.2-2.229.427.23L37.61,76.681l1.286.693.031-.058-1.188-.638.211-.392L39.1,76.9l.032-.059-1.148-.616.212-.393,1.189.638.031-.058-1.189-.639.212-.393,1.158.622.032-.059-1.158-.622.212-.393,1.2.642.032-.058-1.2-.643.213-.395,1.188.639.032-.059-2.983-1.6-.032.059,1.172.629-.21.391L36.923,73.9l-.032.059,1.168.627-.212.394-1.167-.628-.032.059,1.168.627-.212.393-1.151-.618-.031.058,1.15.619-.211.393-1.167-.627-.031.059,1.166.627-.222.411-1.181-.635-.032.059Z" style="fill:white"/>
     </g>
     <line x2="7.5" style="fill: none"/>
   </g>
-<g class = "rooms">
+ <g class = "rooms">
 <g id="storey-07L">
         <g id="product-07-X4-A">
             <path style="stroke:none; fill:none;" pointer-events="visible" d="M24.71,90.2078 L29.7598,89.0895 L28.8802,85.1179 L28.8343,85.1281 L28.6064,84.099 L28.6523,84.0888 L28.6303,83.9892 L23.5805,85.1076 L24.71,90.2078"/>
@@ -226,8 +226,7 @@
             <path style="stroke:none; fill:none;" pointer-events="visible" d="M33.0082,69.1821 L32.4486,66.6554 L32.1088,66.7306 L32.06,66.5099 L30.9762,66.75 L31.5847,69.4974 L33.0082,69.1821"/>
         </g>
     </g>
-    </g>
-<g class = "zones">
+    </g> <g class = "zones">
 <g id="storey-07L">
         <g id="product-07-Y08-E">
             <path style="stroke:none; fill:none;" pointer-events="visible" d="M48.2332,68.733 L49.5216,66.3614 L47.8749,65.4669 L46.5866,67.8385 L48.2332,68.733"/>
