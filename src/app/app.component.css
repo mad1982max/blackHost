@@ -12,10 +12,20 @@
 
 .module {
   margin: auto;
+  width: 100%;
+  width: 125%;
+  transform: translate(-13%);
 }
 
 .floorTitle {
   font-size: 50px;
   text-align: center;
   margin-top: 10px;
+}
+
+@media only screen and (min-width: 640px) {
+  .module {
+    width: 100%;
+    transform: none;
+  }
 }
