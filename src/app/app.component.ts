@@ -13,10 +13,12 @@ interface HighLightObj {
 
 interface ParamsObj {
   floor?: string;
-  zoom?: Coord;
+  center?: Coord;
   position?: Coord;
   key?: string;
   version?: string;
+  zoom?: string;
+  v?: string;
 }
 interface BlindsObj {
   [key: string]: string[] | string;
@@ -34,15 +36,21 @@ export class AppComponent {
   objectToHighlight: HighLightObj | undefined ;
   position: Coord;
   blindObj: BlindsObj;
-  tozoom: Coord;
+  zoom;
   inputPosition: string;
+  zoomLevel;
+  objectToZoom;
+  apiKey: string;
+  center: Coord;
+  v: string;
+  
 
-  inputId = '01-X09-B';
+  inputId = '04-X09-H';
   inputColor = '#4000ff';
   inputArea = 'zones';
-  apiKey = 'a5b8eb729a95493c98085ae141f23a41';
   paramToShow = 'roomNumber';
   version = 'white';
+  inputCoordParam = 'IFC'
 
   //mode = 'mobile';
   mode = 'application';
@@ -95,8 +103,7 @@ export class AppComponent {
     }
 ];
 
-  hostRooms = [
-    
+  hostRooms = [    
     {
         "bimRoomId": "04_X06_C",
         "light": 62,
@@ -154,11 +161,13 @@ export class AppComponent {
     console.log('--[url params:]', paramsObj);
 
     this.position = paramsObj.position;
-    this.tozoom = paramsObj.zoom;
+    this.center = paramsObj.center;
+    this.zoom = paramsObj.zoom;
     if (paramsObj.key) { this.apiKey = paramsObj.key; }
     if (paramsObj.version) {
         this.version = paramsObj.version
     }
+    if (paramsObj.v) { this.v = paramsObj.v }
 
     if (paramsObj.floor && this.floors.indexOf(paramsObj.floor) > -1) {
         this.floor = paramsObj.floor;
@@ -169,7 +178,6 @@ export class AppComponent {
   }
 
   paramsParser(query: string): ParamsObj {
-    console.log(query);
     const paramPairsArr = query.split('&');
     const paramsObj: any = {};
 
@@ -178,7 +186,7 @@ export class AppComponent {
     let value: any = {};
     switch (splitedPair[0]) {
       case 'position':
-      case 'zoom':
+      case 'center':
         const valArr = splitedPair[1].split(',');
         value.top = +valArr[1] / 100;
         value.left = +valArr[0] / 100;
@@ -199,11 +207,20 @@ export class AppComponent {
     };
   }
 
-  changeFloor(floor: string): void {
-    // this.objectToHighlight = undefined;
+  zoomInOut(): void {
+    this.objectToZoom = {
+      id: this.inputId,
+      area: this.inputArea,
+      zoom: this.zoom
+    };
+    console.log('this.objectToZoom', this.objectToZoom);    
+  }
+
+  changeFloor(floor: string, v?: string): void {
+    this.v = v;
     this.floor = floor;
     this.paramToShow = 'roomNumber';
-    console.log('NEW FLOOR: ', this.floor);
+    console.log('NEW FLOOR: ', this.floor, this.v);
   }
 
   getCurrentCell(cell: string): void {
@@ -218,8 +235,12 @@ export class AppComponent {
   }
 
   showPosition(): void {
-    const posArr = this.inputPosition.split(',');
-    this.position = {top: +posArr[1] / 100, left: +posArr[0] / 100};
+    if (this.inputPosition) {
+      const posArr = this.inputPosition.split(',');
+      this.position = {top: +posArr[1] / 100, left: +posArr[0] / 100};
+    } else {
+      console.log('PLEASE, CHECK POSITION FIELD');      
+    }    
   }
 
   switcher(paramToShow: string): void {

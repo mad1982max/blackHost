@@ -1,21 +1,25 @@
 
 <div class="mainApp container-fluid">
   <div class="module">
-      <lib-vcog2d
-        [version] = "version"
-        [hostRoomsWithNegativeFB] = "hostRoomsWithNegativeFB"
-        [paramToShow] = "paramToShow"
-        [hostRooms] = "hostRooms"
-        [hostBlinds] = "hostBlinds"
-        [mode] = "mode"
-        [apiKey] = "apiKey"
-        [tozoom] = "tozoom" 
-        [floor]="floor" 
-        [objectToHighlight] = "objectToHighlight" 
-        [position] = "position"
-        (onChangedBlinds) = 'getBlindInfo($event)'      
-        (onChanged) = 'getCurrentCell($event)'>
-      </lib-vcog2d>
-    </div>
+    <lib-vcog2d
+      [v] = "v"
+      [zoomLevel] = "zoom"
+      [objectToZoom] = "objectToZoom"
+      [version] = "version"
+      [hostRoomsWithNegativeFB] = "hostRoomsWithNegativeFB"
+      [paramToShow] = "paramToShow"
+      [hostRooms] = "hostRooms"
+      [hostBlinds] = "hostBlinds"
+      [mode] = "mode"
+      [apiKey] = "apiKey"
+      [tozoom] = "center" 
+      [floor]="floor" 
+      [objectToHighlight] = "objectToHighlight" 
+      [position] = "position"
+      (onChangedBlinds) = 'getBlindInfo($event)'      
+      (onChanged) = 'getCurrentCell($event)'>
+    </lib-vcog2d>
+  </div>
 </div>
+
 
