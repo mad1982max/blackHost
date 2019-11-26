@@ -4,6 +4,7 @@ import { DataService } from './services/data.services';
 interface Coord {
   left: number;
   top: number;
+  type?: string;
 }
 
 interface HighLightObj {
@@ -21,6 +22,7 @@ interface ParamsObj {
   zoom?: string;
   v?: string;
   mode?: string;
+  type?: string;
 }
 
 interface ClickedArea {
@@ -50,15 +52,15 @@ export class AppComponent implements OnInit {
   apiKey: string;
   center: Coord;
   v: string;
-  inputIdRoom = '04-X09-H';
-  inputIdZone = '04-X09-H';
+  inputIdRoom = '04-X11-C';
+  inputIdZone = '04-X11-C';
   inputColor = '#4000ff';
-  inputArea = 'zones';
+  inputArea = 'rooms';
   paramToShow = 'roomNumber';
   version = 'white';
-  inputCoordParam = 'IFC';
-  x: string;
-  y: string;
+  inputCoordParam = 'CMX';
+  x = 131.54376;
+  y = 52.88082;
   hostBlinds: any;
   hostRooms: any;
   hostRoomsWithNegativeFB: any;
@@ -82,8 +84,8 @@ export class AppComponent implements OnInit {
       case 'position':
       case 'center':
         const valArr = splitedPair[1].split(',');
-        value.top = +valArr[1] / 100;
-        value.left = +valArr[0] / 100;
+        value.top = +valArr[1];
+        value.left = +valArr[0];
         break;
       default:
         value = splitedPair[1];
@@ -120,7 +122,6 @@ export class AppComponent implements OnInit {
     if (this.mode === 'application') {
       this.floor = floor;
     } else if (this.mode === 'mobile') {
-      console.log('***************************');
       this.floor = floor;
       this.getFloorBlindsFromServerInHost(this.floor);
       this.getFloorRoomsFromServerInHost(this.floor);
@@ -148,7 +149,7 @@ export class AppComponent implements OnInit {
 
   showPosition(): void {
     if (this.x && this.y) {
-      this.position = {top: +this.y / 100, left: +this.x / 100};
+      this.position = {top: +this.y, left: +this.x, type: this.inputCoordParam};
     } else {
       console.log('PLEASE, CHECK POSITION FIELD');
     }
@@ -210,9 +211,13 @@ export class AppComponent implements OnInit {
     const paramsObj: ParamsObj = this.paramsParser(window.location.search.slice(1));
     console.log('--[url params:]', paramsObj);
 
-    this.position = paramsObj.position;
-    this.center = paramsObj.center;
+    if(paramsObj.position) {
+      this.position = Object.assign({}, paramsObj.position, {type: paramsObj.type || 'IFC'});
+    }
 
+    if(paramsObj.center) {
+      this.center = Object.assign({}, paramsObj.center, {type: paramsObj.type || 'IFC'});;
+    }
     if (paramsObj.zoom) {this.zoom = +paramsObj.zoom; }
     if (paramsObj.key) { this.apiKey = paramsObj.key; }
     if (paramsObj.version) {
@@ -231,8 +236,6 @@ export class AppComponent implements OnInit {
       this.getFloorBlindsFromServerInHost(this.floor);
       this.getFloorRoomsFromServerInHost(this.floor);
     }
-
 }
-
 }
 
