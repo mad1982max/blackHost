@@ -282,7 +282,7 @@ export class AppComponent implements OnInit {
     if (data.logicalRoomId) {
       this.wsChanges = data;
 
-    } else if (data.bimBlindId) {
+    } else if (data.bimBlindId && this.version !== 'black') {
       console.log('changes in data.bimBlindId', this.clickedBlindsArr, data.bimBlindId);
       
       let blindGroupInd = this.clickedBlindsArr.findIndex(item => {
